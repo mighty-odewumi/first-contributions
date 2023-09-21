@@ -6,15 +6,20 @@
 - [Aditya Prakash](https://github.com/heyitsadityaa)
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
 - [AD] (https://github.com/AbhinavD84)
+- [Mighty Odewumi](https://github.com/mighty-odewumi)
 - jhgf
+- tton
+- [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Yang Xiang](https://github.com/yangxdev)
 - [Sebastian Gomez V](https://github.com/segpy)
+- [Jack Hannon](https://github.com/Mezzichai)
 - [Tabia Bechir](https://github.com/t-bechir)
 - [Ziqi] (https://github.com/zi7feng)
 - SOMETHING IS HERE
 - [Menachem Bursh] (https://github.com/burshtei)
 - [Shivam] (https://github.com/kshivam30)
 - [John Mikko Velasquez] (https://github.com/JohnMikko27)
+- [Vinod SR] (https://github.com/VinodSRinCloud)
 - [Purv](https://github.com/Purva-2609)
 - [maimoona-j](https://github.com/maimoona-j)
 - [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
@@ -49,6 +54,7 @@
 - [Aryan Sharma] (https://github.com/aryan8180)
 - [Yusuf Uzun] (https://github.com/Yusi94)
 - [Dean Macaulay](https://github.com/deanmac5)
+- [Daniel Guillen](https://github.com/djg3577)
 - [Ramez Gabra](https://github.com/ramezgabra)
 - [MAEINUDDIN ](https://github.com/Maeinukhan63/)
 - [Fernando Perez](https://github.com/FernPerez/)
@@ -1004,6 +1010,7 @@ Nikhil R
 - [gyanash.ekka](https://github.com/gyanAsh)
 - [Sha1nal](https://github.com/Sha1nal/)
 - [raghvendra.singh](https://github.com/Raghvendra-Singh-Shekhawat)
+- [Ajay Karthikeyan C](https://github.com/ajayc1007)
 - [Darren Harris](https://github.com/theharriscode)
 - [Raj-101](https://github.com/Raj-101)
 - [John OKeeffe](https://github.com/john-o-keeffe)
@@ -2133,6 +2140,7 @@ Akash Abraham
 - [Brian Neisen](https://github.com/warmage12354)
 - [Tango992] (https://github.com/Tango992)
 - Ash
+- [Sam Masto](https://github.com/smashed-toes)
 - [Henry Blackburn](https://github.com/Heno08)
 - [Ared Xiao](https://github.com/Ared-go)
 - [MSN16]
@@ -2431,3 +2439,6 @@ T7
 - [harusys](https://github.com/harusys/)
 - [Jahir Ahmed](https://github.com/jahir509/)
 - [Haile Melaku] (https://github.com/Haile-08)
+- [Joyce Costa](https://github.com/JoyceCosta)
+- [Alan Sakata](https://github.com/sakataalan)
+- [Shivam Roy] (https://github.com/RoyDev72)
